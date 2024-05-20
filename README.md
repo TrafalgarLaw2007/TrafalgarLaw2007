@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there :
 
-<!--
-**TrafalgarLaw2007/TrafalgarLaw2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Matheus Anderson
 
-Here are some ideas to get you started:
+- Estou estudando atualmente na escola Revendo Omar Daibert
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - Estou hoje em dia cursando o segudo ano do ensino medio
+ 
+  - estou me desnvolvendo na liguagem do Exel
+
+  - utilizo esse espaço para me organizar e compartilhar meus projetos desenvolvidos
+ 
+  ### voce pode entrar em contato comigo:email
