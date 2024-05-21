@@ -1,4 +1,4 @@
-### Hi there :
+### Hi there 
 
 Meu nome é Matheus Anderson
 
@@ -7,6 +7,8 @@ Meu nome é Matheus Anderson
   - Estou hoje em dia cursando o segudo ano do ensino medio
  
   - estou me desnvolvendo na liguagem do Exel
+ 
+  - quero me formar em Biotecnologia🔬
 
   - utilizo esse espaço para me organizar e compartilhar meus projetos desenvolvidos
  
