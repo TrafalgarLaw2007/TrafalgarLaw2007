@@ -4,7 +4,7 @@ Meu nome é Matheus Anderson(⌐■_■)
 
 - Estou estudando atualmente na escola Revendo Omar Daibert
 
-  - Estou hoje em dia cursando o segudo ano do ensino medio
+  - Estou hoje em dia cursando o terceiro ano do ensino medio
  
   - estou me desnvolvendo na liguagem do Exel
  
